@@ -120,7 +120,8 @@ PROGRAMMER=usbtiny
 PORT=/dev/ttyUSB0
 
 AVRDUDE=avrdude
-AVRDUDE_FLAGS=-q -P $(PORT) -c $(PROGRAMMER)
+# AVRDUDE_FLAGS=-q -P $(PORT) -c $(PROGRAMMER)
+AVRDUDE_FLAGS=-q -c $(PROGRAMMER)
 
 # ----------------
 # ASSEMBLER TO USE

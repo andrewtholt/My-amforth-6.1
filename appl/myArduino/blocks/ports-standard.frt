@@ -45,5 +45,5 @@ synonym analog.3 digital.17
 synonym analog.4 digital.18
 synonym analog.5 digital.19
 \ not on all chips but defined in arduino sources
-synonym analog.6 digital.20
+\ synonym analog.6 digital.20
 \ synonym analog.7 digital.21
