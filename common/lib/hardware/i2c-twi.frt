@@ -2,7 +2,8 @@
 \ uses the TWI module of the Atmega's.
 
 #require bitnames.frt
-#require value.frt
+\ #require value.frt
+#require avr-values.frt
 
 \ provides public commands
 \  i2c.ping?         -- checks if addr is active
