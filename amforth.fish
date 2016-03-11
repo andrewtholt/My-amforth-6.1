@@ -1,3 +1,4 @@
+
 set -e AMFORTH
 set -e AMFORTH_LIB
 set -e AMFORTH_ROOT_LIB
